@@ -1,0 +1,9 @@
+.cartbtn button{
+    border:solid rgb(124, 124, 227) 1px;
+    border-radius: 10px;
+    background-color: rgb(68, 68, 146);
+    color: white;
+    position: absolute;
+    top: 1350px;
+    left: 300px;
+}
